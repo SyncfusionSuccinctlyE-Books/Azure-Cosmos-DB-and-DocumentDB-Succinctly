@@ -1,0 +1,12 @@
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\bin\Debug\DocDbClientCode.exe.config
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\bin\Debug\DocDbClientCode.exe
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\bin\Debug\DocDbClientCode.pdb
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\obj\Debug\DocDbClientCode.csprojResolveAssemblyReference.cache
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\obj\Debug\DocDbClientCode.exe
+C:\Users\Fast\Documents\Visual_Studio_2015\DocumentDB_Succinctly\SampleCode\DocDbClientCode\obj\Debug\DocDbClientCode.pdb
