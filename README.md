@@ -1,5 +1,5 @@
-# Azure CosmosDB and DocumentDB Succinctly
-This is the companion repo for [*Azure CosmosDB and DocumentDB Succinctly*](https://www.syncfusion.com/resources/techportal/details/ebooks/Azure_Cosmos_DB_and_DocumentDB_Succinctly) by Ed Freitas. Published by Syncfusion.
+# Azure Cosmos DB and DocumentDB Succinctly
+This is the companion repo for [*Azure Cosmos DB and DocumentDB Succinctly*](https://www.syncfusion.com/resources/techportal/details/ebooks/Azure_Cosmos_DB_and_DocumentDB_Succinctly) by Ed Freitas. Published by Syncfusion.
 
 [![cover](https://github.com/SyncfusionSuccinctlyE-Books/Azure-Cosmos-DB-and-DocumentDB-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/resources/techportal/details/ebooks/Azure_Cosmos_DB_and_DocumentDB_Succinctly)
 
